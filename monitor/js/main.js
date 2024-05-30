@@ -1,4 +1,3 @@
-
 let respuesta = document.getElementById("respuesta");
 
 function callApiRequest() {
